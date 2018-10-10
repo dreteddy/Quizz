@@ -171,6 +171,5 @@ public class HttpGet {
             String quizType = nodeList.item(1).getAttributes().item(0).getNodeValue();
             Quiz quiz = new Quiz();
             quiz.setQuizType(quizType);
-
     }
 }
