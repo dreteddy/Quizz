@@ -102,7 +102,6 @@ public class HttpGet {
         @Override
         protected List doInBackground(Void... params) {
             getPage("https://dept-info.univ-fcomte.fr/joomla/images/CR0700/Quizzs.xml");
-            //getPage("https://www.lemonde.fr/rss/tag/enseignement-superieur.xml");
             return returnList;
         }
 
