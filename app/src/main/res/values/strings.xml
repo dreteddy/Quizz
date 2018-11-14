@@ -1,3 +1,61 @@
 <resources>
     <string name="app_name">Quizz</string>
+
+    <!--Global variables-->
+    <string name="home_h1">QUIZZ PROJ</string>
+    <string name="home_btn_play">PLAY</string>
+    <string name="home_btn_download">DOWNLOAD QUIZ</string>
+    <string name="home_btn_add_quiz">ADD QUIZ</string>
+    <string name="home_btn_exit">EXIT QUIZ</string>
+    <string name="btn_upload">Upload Image</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_go_home">BACK HOME PAGE</string>
+    <string name="btn_go_manage">Back To Manage Page</string>
+    <string name="btn_back">Back</string>
+
+    <!--Manage variables-->
+    <string name="manage_act_title">Manage Quizs</string>
+    <string name="edit_quiz">Edit or Delete Quizs</string>
+
+    <!--Play Activity variables-->
+    <string name="play_h1">QUIZS</string>
+    <string name="quiz_h1">QUIZ 1</string>
+    <string name="question_title">Question : </string>
+    <string name="quiz_title">Quiz : </string>
+
+    <!--Result Activity variables-->
+    <string name="result_h1">Results for Quiz : </string>
+    <string name="result_highest_score">Highest score : </string>
+    <string name="result_current_score">Your score : </string>
+    <string name="result_btn_to_quizs">BACK TO QUIZS</string>
+    <string name="result_btn_to_questions">BACK TO QUESTIONS</string>
+    <string name="result_btn_manage">Back To Manage Quizs</string>
+    <string name="result_btn_exit">EXIT QUIZ APP</string>
+
+    <!--Add quiz Activity variables-->
+    <string name="add_quiz_title">ADD QUIZ</string>
+    <string name="add_quiz_type">Quiz Type</string>
+    <string name="add_quiz_img">Quiz Image</string>
+
+    <!--Add Question Activity variables-->
+    <string name="add_question_title">ADD QUESTION</string>
+    <string name="add_question_type">Question</string>
+    <string name="btn_quiz_back">BACK TO ADD QUIZ</string>
+
+    <!--Add Answer Activity variables-->
+    <string name="add_answer_title">ADD ANSWER</string>
+    <string name="add_answer_txt">Answer</string>
+    <string name="rbtn_not_correct_answer">No</string>
+    <string name="rbtn_correct_answer">Yes</string>
+    <string name="add_correct_answer">Is correct answer ?</string>
+    <string name="btn_answer_back">BACK TO ADD QUESTION</string>
+
+
+    <!--Dialog box variables-->
+    <string name="dialog_box_title">Title</string>
+    <string name="dialog_box_txt">Title</string>
+    <string name="dialog_btn_valid">OK</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="success_dialog_msg">successful</string>
+    <string name="error_dialog_msg">Please fill any empty fields</string>
 </resources>
